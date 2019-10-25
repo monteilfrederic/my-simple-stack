@@ -10,6 +10,10 @@ public class SimpleStackImplTest {
 
     SimpleStack simpleStack;
 
+    /* Created by monteilfrederic on 25/10/19.
+
+    Commentaire répondant à l'exigence n°3 */
+
     @Before
     public void setUp() throws Exception {
 
