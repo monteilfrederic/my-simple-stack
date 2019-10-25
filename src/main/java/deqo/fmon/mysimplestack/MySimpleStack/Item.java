@@ -4,6 +4,12 @@ public class Item {
 
     private Object value;
 
+    /* created by monteilfrederic on 25/10/19.
+
+    Commentaire répondant à l'éxigence 1.
+
+     */
+
     Item(Object value) {
 
         setValue(value);
